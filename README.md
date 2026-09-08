@@ -57,7 +57,7 @@ I am still learning, experimenting, and gradually turning these interests into p
 - Period: `[2020 – 2024]`
 
 
-🚀 Projects
+## 🚀 Projects
 ⚾ Baseball Analytics Agent
 
 An AI-powered baseball analytics project focused on answering complex baseball questions using structured data, statistical analysis, and LLM-based reasoning.
@@ -68,7 +68,7 @@ Status: 🚧 Actively developing
 
 More projects will be added here as they become ready.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Languages
 
 <p> <img src="https://skillicons.dev/icons?i=python,java,js,sql" /> </p>
@@ -90,11 +90,7 @@ RAG
 AI Agent Architecture
 Data Engineering
 Docker & Linux
-⚾ Beyond Coding
-
-Programming is only one part of my life.
-
-⚾ Baseball
+## ⚾ Baseball
 
 I'm a big baseball fan, especially interested in MLB and the Los Angeles Dodgers.
 
@@ -111,7 +107,7 @@ This interest eventually became one of the motivations behind my baseball analyt
 
 I like technology, but I also believe understanding people and society is important — especially when we are designing increasingly intelligent systems.
 
-🏋️ Fitness
+## 🏋️ Fitness
 
 I'm also trying to build a consistent fitness routine.
 
@@ -121,7 +117,7 @@ Stay healthy, become stronger, and maintain enough energy for studying and codin
 
 I prefer keeping exercise sustainable rather than treating it as a short-term challenge.
 
-🌏 Life Outside the Screen
+## 🌏 Life Outside the Screen
 
 When I'm not coding, I also enjoy:
 
@@ -134,7 +130,7 @@ When I'm not coding, I also enjoy:
 
 I enjoy discovering how different cities, cultures, and people live.
 
-🌱 What I'm Working on Now
+## 🌱 What I'm Working on Now
 learning:
   - Data Science
   - Machine Learning
