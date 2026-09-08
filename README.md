@@ -95,18 +95,21 @@ Stay healthy, become stronger, and maintain enough energy for studying and codin
 
 I prefer keeping exercise sustainable rather than treating it as a short-term challenge.
 
+```markdown
 ## 🌏 Life Outside the Screen
 
 When I'm not coding, I also enjoy:
 
-✈️ Traveling
-🚶 Exploring cities
-🍜 Trying different food
-🎬 Movies / Anime
-🎧 Music
-🛒 Occasionally exploring Shenzhen and Hong Kong
+- ✈️ Traveling
+- 🚶 Exploring cities
+- 🍜 Trying different food
+- 🎬 Movies / Anime
+- 🎧 Music
+- 🛒 Occasionally exploring Shenzhen and Hong Kong
 
 I enjoy discovering how different cities, cultures, and people live.
+
+---
 
 ## 📈 GitHub Stats
 
@@ -118,15 +121,21 @@ I enjoy discovering how different cities, cultures, and people live.
 
 </div>
 
+---
+
 ## 📫 Contact
 
 Feel free to reach out if you'd like to talk about:
 
-Data Science · AI · LLM Agents · Baseball · Sports Analytics · Projects
+**Data Science · AI · LLM Agents · Baseball · Sports Analytics · Projects**
 
-📧 Email: [ywang7234-c@my.cityu.edu.hk]
-💼 LinkedIn: []
-🌐 Blog: [Your Blog URL]
+<br>
+
+📧 **Email:** ywang7234-c@my.cityu.edu.hk  
+💼 **LinkedIn:** [Add LinkedIn URL]  
+🌐 **Blog:** [Add Blog URL]
+```
+
 
 <div align="center">
 
