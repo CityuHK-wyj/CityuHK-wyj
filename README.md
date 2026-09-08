@@ -78,7 +78,7 @@ Languages
 
 Data & Backend
 
-<p> <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=postgres,mysql,docker" /> </p>
 
 Development
 
