@@ -71,7 +71,7 @@ More projects will be added here as they become ready.
 ## 🛠️ Tech Stack
 Languages
 
-<p> <img src="https://skillicons.dev/icons?i=python,java,js,sql" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=python,java,sql" /> </p>
 
 Data & Backend
 
@@ -81,15 +81,6 @@ Development
 
 <p> <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,pycharm" /> </p>
 
-Currently Learning
-Python for Data Science
-SQL & Database Systems
-Machine Learning
-LLM Applications
-RAG
-AI Agent Architecture
-Data Engineering
-Docker & Linux
 ## ⚾ Baseball
 
 I'm a big baseball fan, especially interested in MLB and the Los Angeles Dodgers.
@@ -130,31 +121,7 @@ When I'm not coding, I also enjoy:
 
 I enjoy discovering how different cities, cultures, and people live.
 
-## 🌱 What I'm Working on Now
-learning:
-  - Data Science
-  - Machine Learning
-  - AI Agents
-  - LLM Applications
-  - Data Engineering
-
-building:
-  - Baseball Analytics Agent
-  - Personal AI / Data Science Projects
-
-improving:
-  - Coding Skills
-  - System Design
-  - English Communication
-  - Fitness
-
-exploring:
-  - Sports Analytics
-  - Human Behavior
-  - Sociology
-  - AI × Real-world Applications
-
-📈 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -164,7 +131,7 @@ exploring:
 
 </div>
 
-📫 Contact
+## 📫 Contact
 
 Feel free to reach out if you'd like to talk about:
 
