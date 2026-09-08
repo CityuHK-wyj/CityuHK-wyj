@@ -56,28 +56,6 @@ I am still learning, experimenting, and gradually turning these interests into p
 - University: **Beijing Jiaotong University**
 - Period: `[2020 – 2024]`
 
-### Current Focus
-
-I'm currently trying to strengthen my skills in three main directions:
-
-```text
-Data Science
-     │
-     ├── Data Analysis
-     ├── Machine Learning
-     └── Data Engineering
-              │
-              ▼
-        AI / LLM Systems
-              │
-              ├── RAG
-              ├── Agents
-              └── Tool-using AI
-              │
-              ▼
-      Real-world Projects
-
-My long-term goal is to become someone who can not only analyze data, but also design intelligent systems that can reason, retrieve information, use tools, and solve complex tasks.
 
 🚀 Projects
 ⚾ Baseball Analytics Agent
