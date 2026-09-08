@@ -95,7 +95,6 @@ Stay healthy, become stronger, and maintain enough energy for studying and codin
 
 I prefer keeping exercise sustainable rather than treating it as a short-term challenge.
 
-```markdown
 ## 🌏 Life Outside the Screen
 
 When I'm not coding, I also enjoy:
