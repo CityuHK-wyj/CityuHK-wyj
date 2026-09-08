@@ -16,8 +16,9 @@
   📚 Reading
 </p>
 <p>
-  ⚾ Proud <strong>Los Angeles Dodgers</strong> fan 💙
+  💙 Proud <strong>Los Angeles Dodgers</strong> fan 💙
 </p>
+<p>👑👑 <strong>2024–2025 Back-to-Back World Series Champions! Let's go Dodgers!</strong> 💙⚾</p>
 </div>
 
 ---
