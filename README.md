@@ -110,18 +110,6 @@ I enjoy discovering how different cities, cultures, and people live.
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=CityuHK-wyj&show_icons=true&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CityuHK-wyj&layout=compact&hide_border=true" />
-
-</div>
-
----
-
 ## 📫 Contact
 
 Feel free to reach out if you'd like to talk about:
@@ -134,7 +122,6 @@ Feel free to reach out if you'd like to talk about:
 💼 **LinkedIn:** [Add LinkedIn URL]  
 🌐 **Blog:** [Add Blog URL]
 ```
-
 
 <div align="center">
 
