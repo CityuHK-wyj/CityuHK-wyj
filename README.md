@@ -1,8 +1,6 @@
-<div align="center">
+<div>
 
 # Hi, I'm Yijie 👋
-
-### Data Science Student · AI Agent Explorer · Baseball Enthusiast
 
 <p>
   Exploring the intersection of <b>Data Science</b>, <b>AI Agents</b>, and <b>real-world applications</b>.
