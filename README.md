@@ -121,13 +121,11 @@ Feel free to reach out if you'd like to talk about:
 📧 **Email:** ywang7234-c@my.cityu.edu.hk  
 💼 **LinkedIn:** [Add LinkedIn URL]  
 🌐 **Blog:** [Add Blog URL]
-```
 
 <div align="center">
 
-Thanks for visiting! 👋
+<h3>Thanks for visiting! 👋</h3>
 
-"Keep building, keep learning, and stay curious."
+<p><i>"Keep building, keep learning, and stay curious."</i></p>
 
 </div>
-```
