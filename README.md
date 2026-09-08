@@ -15,7 +15,9 @@
   💻 Coding &nbsp;|&nbsp;
   📚 Reading
 </p>
-
+<p>
+  ⚾ Proud <strong>Los Angeles Dodgers</strong> fan 💙
+</p>
 </div>
 
 ---
@@ -81,22 +83,6 @@ Development
 
 <p> <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,pycharm" /> </p>
 
-## ⚾ Baseball
-
-I'm a big baseball fan, especially interested in MLB and the Los Angeles Dodgers.
-
-What I enjoy most is not only watching games, but also looking at baseball from a data perspective:
-
-Player performance
-Statcast metrics
-Pitching and batting strategies
-Roster construction
-Trades and contracts
-Advanced baseball statistics
-
-This interest eventually became one of the motivations behind my baseball analytics project.
-
-I like technology, but I also believe understanding people and society is important — especially when we are designing increasingly intelligent systems.
 
 ## 🏋️ Fitness
 
