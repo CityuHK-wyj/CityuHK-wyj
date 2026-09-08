@@ -1,16 +1,209 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**CityuHK-wyj/CityuHK-wyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Yijie 👋
 
-Here are some ideas to get you started:
+### Data Science Student · AI Agent Explorer · Baseball Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  Exploring the intersection of <b>Data Science</b>, <b>AI Agents</b>, and <b>real-world applications</b>.
+</p>
+
+<p>
+  🎓 Data Science &nbsp;|&nbsp;
+  🤖 AI Agents &nbsp;|&nbsp;
+  ⚾ Baseball &nbsp;|&nbsp;
+  💻 Coding &nbsp;|&nbsp;
+  📚 Reading
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Hi! I'm **Yijie Wang**, a student with a background in **Software Engineering** and currently focusing on **Data Science**.
+
+I'm especially interested in how data, large language models, and intelligent agents can be combined to solve real-world problems.
+
+Rather than only learning algorithms or frameworks, I enjoy building projects that connect different ideas together — from data processing and analytics to AI-powered applications.
+
+Currently, I am exploring:
+
+- 🤖 **AI Agents & LLM Applications**
+- 📊 **Data Science & Data Analytics**
+- 🧠 **Machine Learning**
+- 🗄️ **Databases & Data Engineering**
+- ⚾ **Sports Analytics**
+- 🌐 **Web-based Applications**
+
+I am still learning, experimenting, and gradually turning these interests into practical projects.
+
+---
+
+## 🎓 Background
+
+### Education
+
+**Master's Degree**
+- Major: **Data Science**
+- University: `[City University of Hong Kong]`
+- Location: Hong Kong
+- Period: `[2026 – 2027]`
+
+**Bachelor's Degree**
+- Major: **Software Engineering**
+- University: **Beijing Jiaotong University**
+- Period: `[2020 – 2024]`
+
+### Current Focus
+
+I'm currently trying to strengthen my skills in three main directions:
+
+```text
+Data Science
+     │
+     ├── Data Analysis
+     ├── Machine Learning
+     └── Data Engineering
+              │
+              ▼
+        AI / LLM Systems
+              │
+              ├── RAG
+              ├── Agents
+              └── Tool-using AI
+              │
+              ▼
+      Real-world Projects
+
+My long-term goal is to become someone who can not only analyze data, but also design intelligent systems that can reason, retrieve information, use tools, and solve complex tasks.
+
+🚀 Projects
+⚾ Baseball Analytics Agent
+
+An AI-powered baseball analytics project focused on answering complex baseball questions using structured data, statistical analysis, and LLM-based reasoning.
+
+The project is also a way for me to explore how AI agents can interact with databases, analytical tools, and external information sources.
+
+Status: 🚧 Actively developing
+
+More projects will be added here as they become ready.
+
+🛠️ Tech Stack
+Languages
+
+<p> <img src="https://skillicons.dev/icons?i=python,java,js,sql" /> </p>
+
+Data & Backend
+
+<p> <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker" /> </p>
+
+Development
+
+<p> <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,pycharm" /> </p>
+
+Currently Learning
+Python for Data Science
+SQL & Database Systems
+Machine Learning
+LLM Applications
+RAG
+AI Agent Architecture
+Data Engineering
+Docker & Linux
+⚾ Beyond Coding
+
+Programming is only one part of my life.
+
+⚾ Baseball
+
+I'm a big baseball fan, especially interested in MLB and the Los Angeles Dodgers.
+
+What I enjoy most is not only watching games, but also looking at baseball from a data perspective:
+
+Player performance
+Statcast metrics
+Pitching and batting strategies
+Roster construction
+Trades and contracts
+Advanced baseball statistics
+
+This interest eventually became one of the motivations behind my baseball analytics project.
+
+I like technology, but I also believe understanding people and society is important — especially when we are designing increasingly intelligent systems.
+
+🏋️ Fitness
+
+I'm also trying to build a consistent fitness routine.
+
+My current goal is simple:
+
+Stay healthy, become stronger, and maintain enough energy for studying and coding.
+
+I prefer keeping exercise sustainable rather than treating it as a short-term challenge.
+
+🌏 Life Outside the Screen
+
+When I'm not coding, I also enjoy:
+
+✈️ Traveling
+🚶 Exploring cities
+🍜 Trying different food
+🎬 Movies / Anime
+🎧 Music
+🛒 Occasionally exploring Shenzhen and Hong Kong
+
+I enjoy discovering how different cities, cultures, and people live.
+
+🌱 What I'm Working on Now
+learning:
+  - Data Science
+  - Machine Learning
+  - AI Agents
+  - LLM Applications
+  - Data Engineering
+
+building:
+  - Baseball Analytics Agent
+  - Personal AI / Data Science Projects
+
+improving:
+  - Coding Skills
+  - System Design
+  - English Communication
+  - Fitness
+
+exploring:
+  - Sports Analytics
+  - Human Behavior
+  - Sociology
+  - AI × Real-world Applications
+
+📈 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=CityuHK-wyj&show_icons=true&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CityuHK-wyj&layout=compact&hide_border=true" />
+
+</div>
+
+📫 Contact
+
+Feel free to reach out if you'd like to talk about:
+
+Data Science · AI · LLM Agents · Baseball · Sports Analytics · Projects
+
+📧 Email: [ywang7234-c@my.cityu.edu.hk]
+💼 LinkedIn: []
+🌐 Blog: [Your Blog URL]
+
+<div align="center">
+
+Thanks for visiting! 👋
+
+"Keep building, keep learning, and stay curious."
+
+</div> ```
