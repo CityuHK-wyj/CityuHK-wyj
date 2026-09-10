@@ -48,7 +48,7 @@ I am still learning, experimenting, and gradually turning these interests into p
 
 **Master's Degree**
 - Major: **Data Science**
-- University: `[City University of Hong Kong]`
+- University: **City University of Hong Kong**
 - Location: Hong Kong
 - Period: `[2026 – 2027]`
 
